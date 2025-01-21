@@ -45,12 +45,12 @@ Literalura is a Java-based application that seamlessly manages and searches for 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/zlucasftw/literalura.git
+   git clone https://github.com/zlucasftw/alura-challenge-literalura.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd literalura
+   cd alura-challenge-literalura
    ```
 
 3. Create and configure environment variables (see Configuration section)
